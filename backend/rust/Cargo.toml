@@ -1,0 +1,13 @@
+[package]
+name = "competition_deck_grader_backend"
+version = "0.1.0"
+edition = "2021"
+description = "Rust release-gate engine for Competition Deck Grader"
+license = "MIT"
+
+[lib]
+path = "src/lib.rs"
+
+[[bin]]
+name = "competition-deck-grader-backend"
+path = "src/main.rs"
