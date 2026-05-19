@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/competition-deck-grader/) · [Report an issue](https://github.com/volta-npo/competition-deck-grader/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/49-competition-deck-grader/) · [Report an issue](https://github.com/volta-npo/49-competition-deck-grader/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -193,7 +193,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/competition-deck-grader.git
+git clone https://github.com/volta-npo/49-competition-deck-grader.git
 cd 49-competition-deck-grader
 npm install
 npm test
