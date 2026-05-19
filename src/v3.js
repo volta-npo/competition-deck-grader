@@ -1,6 +1,6 @@
 export const v3 = {
     "productName": "Competition Deck Grader",
-    "productTier": "v3-production",
+    "productTier": "release",
     "category": "Student Agency Operations",
     "acceptance": [
         "mentor signoff tracked",
@@ -14,7 +14,7 @@ export const v3 = {
         "Local autosave with no backend dependency",
         "JSON production bundle export/import",
         "CSV operational table export",
-        "Markdown production certification export",
+        "Markdown release certification export",
         "Print-ready handoff and release packet",
         "Integrity hash for release evidence"
     ],
@@ -53,7 +53,7 @@ export const v3 = {
         "Keyboard-accessible controls present",
         "Owner/mentor review gates represented",
         "Evidence required for launch-ready claims",
-        "Production certification hash generated",
+        "Release certification hash generated",
         "Rubric Score reaches production threshold",
         "Judge Variance is documented with evidence",
         "Finalist Readiness has no unresolved blocker",
