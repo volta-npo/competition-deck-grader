@@ -1,0 +1,35 @@
+{
+  "name": "@volta-oss/competition-deck-grader",
+  "version": "3.0.0",
+  "private": false,
+  "type": "module",
+  "description": "An open rubric runner for Volta’s Digital Transformation Challenge pitch decks.",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 4173",
+    "validate": "node --test",
+    "certify": "node --test test/v3.test.js",
+    "test:all": "node --test"
+  },
+  "keywords": [
+    "digital-equity",
+    "local-first",
+    "oss",
+    "student agency operations",
+    "v3-production",
+    "volta"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volta-npo/49-competition-deck-grader.git"
+  },
+  "homepage": "https://volta-npo.github.io/49-competition-deck-grader/",
+  "bugs": {
+    "url": "https://github.com/volta-npo/49-competition-deck-grader/issues"
+  },
+  "author": "Volta OSS Division <volta.npo@gmail.com>",
+  "engines": {
+    "node": ">=20"
+  }
+}
