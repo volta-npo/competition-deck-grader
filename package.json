@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "private": false,
   "type": "module",
-  "description": "An open rubric runner for Volta\u2019s Digital Transformation Challenge pitch decks.",
+  "description": "An open rubric runner for Volta’s Digital Transformation Challenge pitch decks.",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && node --test test/*.test.js",
@@ -31,11 +31,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/49-competition-deck-grader.git"
+    "url": "git+https://github.com/volta-npo/competition-deck-grader.git"
   },
-  "homepage": "https://volta-npo.github.io/49-competition-deck-grader/",
+  "homepage": "https://volta-npo.github.io/competition-deck-grader/",
   "bugs": {
-    "url": "https://github.com/volta-npo/49-competition-deck-grader/issues"
+    "url": "https://github.com/volta-npo/competition-deck-grader/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
